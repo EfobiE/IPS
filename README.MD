@@ -17,3 +17,5 @@ Integrated Patient System (IPS) is a patient profile database management interfa
 ##### lastName:String
 ##### address:String
 ##### phone:String
+## How to Run the Program
+run 'PatientProfInterface.java'
