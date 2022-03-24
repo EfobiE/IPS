@@ -1,0 +1,96 @@
+00001
+Vlaho
+Munira
+32 Brown Blvd
+8002341623
+20.0
+Adult
+Government
+Elfa Visnja
+8002341627
+Food
+CHD
+00001
+Velibor
+Marloes
+76 Little Street
+8002338912
+40.0
+Pediatric
+Government
+Fato Sarvesh
+8004618623
+Medication
+Diabetes
+00002
+Zeus
+Payam
+10 Needmore Ave
+8023341623
+40.0
+Adult
+Private
+Amy Payam
+8126741623
+None
+None
+00001
+Floro
+Mirinda
+6517 Nearest Street
+8126125423
+20.0
+Senior
+Government
+Jone
+Mirinda
+Other
+CHD
+00002
+Roosevelt
+Intan
+1001 Brown Ave
+8126742233
+20.0
+Senior
+Government
+Ellis
+Intan
+Medication
+Diabetes
+00001
+Safa
+Javi
+6007 Research Ave
+8259841623
+20.0
+Adult
+Private
+NA
+NA
+None
+None
+00002
+Ayna
+Bento
+2006 Broadway
+6125876569
+40.0
+Adult
+Private
+Emily Brown
+956311623
+Food
+None
+00001
+Roza
+Baihu
+3004 Willington Ave
+9568795426
+20.0
+Adult
+Government
+Ali Baihu
+9657841256
+Food
+None
